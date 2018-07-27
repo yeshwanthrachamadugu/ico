@@ -1,0 +1,21 @@
+package package1;
+
+public class Class1 {
+
+	public static void main(String[] args) {
+		
+	}
+class A{
+	int i;
+	
+	public A() {
+		
+		i++;
+	}
+	public void counter() {
+		
+		System.out.println(i);
+	}
+	
+}
+}

@@ -1,0 +1,20 @@
+package package1;
+import static  java.lang.System.out;
+
+import com.gargoylesoftware.htmlunit.javascript.host.Set;
+public class Class3 {
+
+	public static void main(String[] args) {
+		out.println("Hi");
+		ABC.Set()
+		
+
+	}
+
+}
+class ABC{
+	
+	public void set() {
+		System.out.println("Hello");
+	}
+}

@@ -1,0 +1,21 @@
+package package1;
+import static  java.lang.System.out;
+import static ABC.set;
+
+
+public class Class3 {
+
+	public static void main(String[] args) {
+		out.println("Hi");
+		set();
+		
+
+	}
+
+}
+class ABC{
+	
+	public static void set() {
+		System.out.println("Hello");
+	}
+}

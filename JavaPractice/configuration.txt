@@ -1,0 +1,4 @@
+#Wed May 30 14:09:54 IST 2018
+Username=Yeshwanth.rachamadugu@raksan.in
+URL=https\://qaapp.moolya.global
+Password=MoolyaAdmin@123

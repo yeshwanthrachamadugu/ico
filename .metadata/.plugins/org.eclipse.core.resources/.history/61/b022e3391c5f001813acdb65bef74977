@@ -1,0 +1,31 @@
+package package1;
+
+public class Class5 {
+
+	public static void main(String[] args) {
+		AB obj=new ABCDEFG(7);
+	}
+
+}
+class AB
+{
+	/*public AB() {
+		System.out.println("super AB without parameters");
+		
+	}*/
+	public AB(int i) {
+		System.out.println("super AB with parameters");
+		
+	}
+}
+class ABCDEFG extends AB
+{
+	public ABCDEFG() {
+		System.out.println("sub ABCDEFG without parameters");
+		
+	}
+	public ABCDEFG(int i) {
+		System.out.println("sub ABCDEFG with parameters");
+		
+	}
+}

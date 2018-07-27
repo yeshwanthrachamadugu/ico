@@ -1,0 +1,15 @@
+package package1;
+
+public class Class1 {
+
+	public static void main(String[] args) {
+		/*//char c='A';
+		int i=29_9_9_9_99;
+		//System.out.println((int)c);
+		System.out.println((char)125);
+		System.out.println(i);*/
+		
+		System.out.println("HI");
+	}
+
+}
